@@ -1,0 +1,6 @@
+1CGI_E.I   I-RMSD    Energy value
+model1 0.4  697.853
+model2 0.48  714.447
+model3 0.038  721.132
+model4 0.55  721.462
+model5 0.316  748.485

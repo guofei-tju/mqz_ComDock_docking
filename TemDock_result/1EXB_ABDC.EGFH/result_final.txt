@@ -1,0 +1,15 @@
+1EXB_ABDC.EGFH   I-RMSD    Energy value
+model1 0.275  2822.5
+model2 25.507  2824.86
+model3 0.239  2826.7
+model4 0.214  2828.12
+model5 0.196  2828.17
+model6 17.834  2828.45
+model7 0.246  2830.05
+model8 0.243  2830.62
+model9 0.414  2837.52
+model10 0.417  2840.51
+model11 25.511  2840.84
+model12 0.478  2841.88
+model13 17.892  2842.99
+model14 17.959  2843.05

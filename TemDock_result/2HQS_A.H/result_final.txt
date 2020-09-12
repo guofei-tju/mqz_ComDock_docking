@@ -1,0 +1,11 @@
+2HQS_A.H   I-RMSD    Energy value
+model1 0.441  759.716
+model2 22.191  763.677
+model3 30.284  766.817
+model4 28.066  767.801
+model5 0.087  769.986
+model6 28.821  772.354
+model7 0.096  776.095
+model8 0.315  783.122
+model9 0.294  786.476
+model10 15.008  14145.0

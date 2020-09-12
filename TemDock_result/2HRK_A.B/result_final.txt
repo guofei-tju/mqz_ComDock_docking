@@ -1,0 +1,2 @@
+2HRK_A.B   I-RMSD    Energy value
+model1 0.259  503.14

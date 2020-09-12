@@ -1,0 +1,7 @@
+3BIW_A.E   I-RMSD    Energy value
+model1 0.607  1613.44
+model2 0.568  1617.57
+model3 0.568  1617.57
+model4 50.844  1620.07
+model5 47.99  1621.19
+model6 0.907  1625.65

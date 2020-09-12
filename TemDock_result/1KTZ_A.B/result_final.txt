@@ -1,0 +1,6 @@
+1KTZ_A.B   I-RMSD    Energy value
+model1 0.328  391.591
+model2 51.323  392.027
+model3 0.314  392.448
+model4 0.39  400.526
+model5 0.381  400.608

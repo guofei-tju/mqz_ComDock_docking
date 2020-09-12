@@ -1,0 +1,5 @@
+1KKL_ABC.H   I-RMSD    Energy value
+model1 36.059  1308.43
+model2 0.077  1308.47
+model3 36.053  1314.81
+model4 0.104  1315.9

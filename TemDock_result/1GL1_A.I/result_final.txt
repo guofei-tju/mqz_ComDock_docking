@@ -1,0 +1,3 @@
+1GL1_A.I   I-RMSD    Energy value
+model1 1.044  406.031
+model2 1.776  612.804

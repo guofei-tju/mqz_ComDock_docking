@@ -1,0 +1,2 @@
+1S1Q_A.B   I-RMSD    Energy value
+model1 2.165  602.86

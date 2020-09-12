@@ -1,0 +1,2 @@
+1JTD_B.A   I-RMSD    Energy value
+model1 0.29  975.177

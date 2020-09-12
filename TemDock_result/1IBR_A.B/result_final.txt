@@ -1,0 +1,8 @@
+1IBR_A.B   I-RMSD    Energy value
+model1 40.586  1384.05
+model2 1.144  1421.31
+model3 1.063  1428.24
+model4 0.727  1467.32
+model5 1.813  1816.85
+model6 34.99  2006.52
+model7 3.723  2159.62

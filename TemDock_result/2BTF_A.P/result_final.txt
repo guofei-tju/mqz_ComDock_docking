@@ -1,0 +1,4 @@
+2BTF_A.P   I-RMSD    Energy value
+model1 0.192  1315.34
+model2 0.241  1318.13
+model3 0.246  1318.79

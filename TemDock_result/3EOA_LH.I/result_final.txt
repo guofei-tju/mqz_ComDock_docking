@@ -1,0 +1,6 @@
+3EOA_LH.I   I-RMSD    Energy value
+model1 17.721  1636.43
+model2 17.721  1636.43
+model3 17.33  1644.6
+model4 17.171  1768.52
+model5 16.854  1905.01

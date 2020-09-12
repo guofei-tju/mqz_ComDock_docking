@@ -1,0 +1,6 @@
+2VIS_AB.C   I-RMSD    Energy value
+model1 54.353  1821.08
+model2 54.501  1824.69
+model3 53.082  1825.6
+model4 53.082  1825.6
+model5 52.227  1907.08

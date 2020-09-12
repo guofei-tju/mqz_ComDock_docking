@@ -1,0 +1,6 @@
+3CPH_G.A   I-RMSD    Energy value
+model1 0.703  1183.0
+model2 0.726  1205.48
+model3 1.035  1250.22
+model4 17.622  18252.8
+model5 17.622  18252.8

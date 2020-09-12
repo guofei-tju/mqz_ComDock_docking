@@ -1,0 +1,3 @@
+4M76_A.B   I-RMSD    Energy value
+model1 68.476  828.589
+model2 68.017  829.062

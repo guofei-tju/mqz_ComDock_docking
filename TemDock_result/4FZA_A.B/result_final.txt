@@ -1,0 +1,5 @@
+4FZA_A.B   I-RMSD    Energy value
+model1 0.091  1384.7
+model2 1.197  1531.49
+model3 1.909  1586.82
+model4 1.73  1589.05

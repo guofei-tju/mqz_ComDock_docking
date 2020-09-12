@@ -1,0 +1,7 @@
+1RLB_ABCD.E   I-RMSD    Energy value
+model1 0.67  1926.23
+model2 0.582  1926.28
+model3 34.249  1932.32
+model4 0.479  1941.4
+model5 33.88  2006.27
+model6 33.995  2024.93

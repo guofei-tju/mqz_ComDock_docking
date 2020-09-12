@@ -1,0 +1,9 @@
+3HI6_XY.B   I-RMSD    Energy value
+model1 43.69  1349.02
+model2 12.677  1590.61
+model3 12.855  1639.67
+model4 12.919  1679.51
+model5 12.934  1689.37
+model6 13.008  1692.17
+model7 12.923  1793.05
+model8 12.885  1892.89

@@ -1,0 +1,5 @@
+4FQI_HL.ABEFCD   I-RMSD    Energy value
+model1 53.225  3918.99
+model2 44.728  3933.93
+model3 37.638  4000.33
+model4 38.393  4251.97

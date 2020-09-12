@@ -1,0 +1,2 @@
+1EER_A.BC   I-RMSD    Energy value
+model1 0.77  1673.31

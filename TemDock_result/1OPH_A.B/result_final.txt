@@ -1,0 +1,4 @@
+1OPH_A.B   I-RMSD    Energy value
+model1 5.573  1074.01
+model2 7.708  1101.33
+model3 32.455  1389.34

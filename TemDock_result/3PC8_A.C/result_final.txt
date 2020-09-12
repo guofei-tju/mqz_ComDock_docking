@@ -1,0 +1,3 @@
+3PC8_A.C   I-RMSD    Energy value
+model1 0.225  325.115
+model2 0.367  339.289

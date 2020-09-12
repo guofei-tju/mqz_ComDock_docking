@@ -1,0 +1,9 @@
+1R0R_E.I   I-RMSD    Energy value
+model1 27.001  416.801
+model2 0.248  453.055
+model3 0.248  453.055
+model4 0.248  453.055
+model5 0.74  509.561
+model6 0.74  509.561
+model7 0.74  509.561
+model8 20.622  536.868

@@ -1,0 +1,2 @@
+2VDB_A.B   I-RMSD    Energy value
+model1 1.347  1525.86

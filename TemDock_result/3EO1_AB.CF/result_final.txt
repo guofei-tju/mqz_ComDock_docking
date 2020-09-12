@@ -1,0 +1,8 @@
+3EO1_AB.CF   I-RMSD    Energy value
+model1 29.987  1741.2
+model2 32.099  1750.06
+model3 31.72  1750.08
+model4 33.224  1854.78
+model5 2.929  1969.33
+model6 32.314  2130.58
+model7 32.32  2154.0

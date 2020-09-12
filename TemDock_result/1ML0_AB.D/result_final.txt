@@ -1,0 +1,10 @@
+1ML0_AB.D   I-RMSD    Energy value
+model1 47.491  1986.77
+model2 47.335  1990.74
+model3 47.252  1991.47
+model4 0.137  1992.5
+model5 0.153  1997.66
+model6 47.615  1998.7
+model7 0.188  2007.13
+model8 0.716  2104.82
+model9 0.964  2169.94

@@ -1,0 +1,9 @@
+1HCF_AB.X   I-RMSD    Energy value
+model1 20.717  650.225
+model2 0.544  658.191
+model3 0.537  664.016
+model4 20.842  666.314
+model5 20.894  666.533
+model6 0.611  669.987
+model7 0.58  692.281
+model8 20.615  692.805

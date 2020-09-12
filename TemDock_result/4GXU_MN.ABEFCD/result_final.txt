@@ -1,0 +1,5 @@
+4GXU_MN.ABEFCD   I-RMSD    Energy value
+model1 57.123  4041.38
+model2 57.123  4041.38
+model3 57.912  4116.11
+model4 66.134  4181.89

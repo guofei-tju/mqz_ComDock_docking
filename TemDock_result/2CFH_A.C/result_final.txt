@@ -1,0 +1,4 @@
+2CFH_A.C   I-RMSD    Energy value
+model1 0.418  680.492
+model2 0.415  702.928
+model3 0.686  753.565

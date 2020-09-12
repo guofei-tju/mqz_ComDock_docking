@@ -1,0 +1,2 @@
+2GAF_D.A   I-RMSD    Energy value
+model1 0.151  2054.95

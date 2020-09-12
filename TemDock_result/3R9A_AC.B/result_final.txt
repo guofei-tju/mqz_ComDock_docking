@@ -1,0 +1,3 @@
+3R9A_AC.B   I-RMSD    Energy value
+model1 0.608  2203.23
+model2 0.638  2221.21

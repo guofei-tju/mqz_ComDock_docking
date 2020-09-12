@@ -1,0 +1,8 @@
+1MAH_A.F   I-RMSD    Energy value
+model1 0.265  1437.94
+model2 0.22  1445.66
+model3 0.537  1453.2
+model4 0.506  1455.92
+model5 0.565  1456.76
+model6 0.533  1457.81
+model7 0.552  1457.88

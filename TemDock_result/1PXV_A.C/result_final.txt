@@ -1,0 +1,3 @@
+1PXV_A.C   I-RMSD    Energy value
+model1 0.781  708.954
+model2 28.757  768.497

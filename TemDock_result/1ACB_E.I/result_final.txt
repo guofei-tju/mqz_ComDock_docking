@@ -1,0 +1,11 @@
+1ACB_E.I   I-RMSD    Energy value
+model1 0.495  582.595
+model2 0.564  582.888
+model3 0.33  583.694
+model4 0.33  583.694
+model5 0.46  586.02
+model6 0.45  587.784
+model7 0.48  591.34
+model8 0.492  591.346
+model9 0.506  593.079
+model10 0.455  593.495
