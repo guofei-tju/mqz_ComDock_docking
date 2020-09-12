@@ -1,0 +1,6 @@
+note:
+the format of result_final.txt:
+No.model	I-RMSD	Energy_value
+
+It must be noted that the '^' in the value of I-RMSD represents that this conformation is detected by TemDock.
+	 
